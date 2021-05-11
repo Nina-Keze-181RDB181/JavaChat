@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaChat</string>
+
+
+    <string name="input_placeholder">Lūdzu, rakstiet šeit</string>
+
+</resources>
